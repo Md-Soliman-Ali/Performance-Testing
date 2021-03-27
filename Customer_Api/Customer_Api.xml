@@ -1,6 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1615904697434,1594,Login,200,OK,Thread Group 1-1,text,true,,433,291,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/login,1592,0,1111
-1615904699048,309,Get Customer List,200,OK,Thread Group 1-1,text,true,,5894,378,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/list,309,0,0
-1615904699359,297,Get Customer by id,200,OK,Thread Group 1-1,text,true,,355,381,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/get/103,297,0,0
-1615904699657,287,Get Customer by email,200,OK,Thread Group 1-1,text,true,,356,431,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/find,287,0,0
-1615904699944,291,Update Customer,200,OK,Thread Group 1-1,text,true,,389,551,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/update/103,290,0,0
